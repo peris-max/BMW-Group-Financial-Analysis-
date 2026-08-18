@@ -27,9 +27,22 @@ The raw dataset includes:
 - Operating Cash Flow
 - Cash and Cash Equivalents
 
-The data was collected from BMW Group financial reports and consolidated financial statements.
+Source: BMW Group annual reports and consolidated financial statements. See the Data Sources section below.
 
 ---
+## Data Sources
+
+Financial data used in this project was collected from official BMW Group annual reports and consolidated financial statements.
+
+Primary sources:
+
+- [BMW Group Report 2025](https://www.bmwgroup.com/en/report/2025/index.html)
+- [BMW Group Report 2024](https://www.bmwgroup.com/en/report/2024/index.html)
+- [BMW Group Report 2023](https://www.bmwgroup.com/en/report/2023/index.html)
+- [BMW Group Report 2022](https://www.bmwgroup.com/en/report/2022/index.html)
+- [BMW Group Investor Relations – Company Reports](https://www.bmwgroup.com/en/investor-relations/company-reports.html)
+
+The analysis uses BMW Group consolidated figures. Monetary values are reported in € million.
 
 ## Financial Metrics Calculated
 
