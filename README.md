@@ -1,4 +1,4 @@
-````markdown
+
 # BMW Group Financial Analysis
 
 ## Project Overview
@@ -37,37 +37,37 @@ The data was collected from BMW Group financial reports and consolidated financi
 
 Measures the year-over-year change in revenue.
 
-`Revenue Growth = (Revenue_t / Revenue_t-1 - 1) × 100`
+Revenue Growth = (Revenue_t / Revenue_t-1 - 1) × 100
 
 ### EBIT Margin
 
 Measures operating profitability relative to revenue.
 
-`EBIT Margin = EBIT / Revenue × 100`
+EBIT Margin = EBIT / Revenue × 100
 
 ### Net Profit Margin
 
 Measures how much net profit is generated for every euro of revenue.
 
-`Net Margin = Net Profit / Revenue × 100`
+Net Margin = Net Profit / Revenue × 100
 
 ### Return on Assets
 
 Measures profitability relative to the company's total asset base.
 
-`ROA = Net Profit / Total Assets × 100`
+ROA = Net Profit / Total Assets × 100
 
 ### Return on Equity
 
 Measures profitability relative to shareholders' equity.
 
-`ROE = Net Profit / Equity × 100`
+ROE = Net Profit / Equity × 100
 
 ### Operating Cash Flow Margin
 
 Measures operating cash generation relative to revenue.
 
-`OCF Margin = Operating Cash Flow / Revenue × 100`
+OCF Margin = Operating Cash Flow / Revenue × 100
 
 ---
 
@@ -116,7 +116,7 @@ Overall, the results suggest that BMW experienced strong revenue growth and prof
 
 ## Project Structure
 
-```text
+
 BMW-Group-Financial-Analysis/
 │
 ├── README.md
@@ -132,7 +132,7 @@ BMW-Group-Financial-Analysis/
     ├── profitability.png
     ├── roa_roe.png
     └── ocf_margin.png
-````
+
 
 ---
 
@@ -159,6 +159,4 @@ BMW-Group-Financial-Analysis/
 * Automated financial data collection
 * Interactive dashboard development
 
-```
-```
 
