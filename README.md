@@ -70,26 +70,24 @@ Measures operating cash generation relative to revenue.
 OCF Margin = Operating Cash Flow / Revenue × 100
 
 ---
-
 ## Visualizations
 
 ### Revenue Development
 
-![BMW Revenue](outputs/revenue.png)
+![BMW Revenue](revenue.png)
 
 ### Profitability
 
-![BMW Profitability](outputs/profitability.png)
+![BMW Profitability](profitability.png)
 
 ### ROA vs ROE
 
-![BMW ROA vs ROE](outputs/roa_roe.png)
+![BMW ROA vs ROE](roa_roe.png)
 
 ### Operating Cash Flow Margin
 
-![BMW Operating Cash Flow Margin](outputs/ocf_margin.png)
+![BMW Operating Cash Flow Margin](ocf_margin.png)
 
----
 
 ## Key Findings
 
